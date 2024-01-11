@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hexcape](https://hexcapegame.com/)
 
-- 🌱 I’m currently learning **UI/UX Design and AI apps (Langchain, Pinecone, HuggingFace, Streamlit)**
+- 🌱 I’m currently learning **UI/UX Design and AI Apps (Langchain, Pinecone, HuggingFace, Streamlit)**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/tinaras-2023-portfolio](https://bit.ly/tinaras-2023-portfolio)
 
