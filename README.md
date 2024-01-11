@@ -2,7 +2,7 @@
 <img width="1834" alt="readme3" src="https://github.com/tinaranw/tinaranw/assets/50069062/4f837176-11ff-42b1-a660-062d0989f18a">
 
 <h1 align="center">Hi 👋, I'm Tinara Nathania</h1>
-<h3 align="center">I’m a junior UI/UX Designer, Front-End Developer, and Illustrator, dedicated to delivering visually pleasing and functional digital solutions that align with the objectives and user needs.</h3>
+<h3 align="center">I’m a junior UI/UX Designer, Front-End Developer, and Illustrator, who is dedicated to delivering visually pleasing and functional digital solutions that align with the objectives and user needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinaranw&label=Profile%20views&color=0e75b6&style=flat" alt="tinaranw" /> </p>
 
