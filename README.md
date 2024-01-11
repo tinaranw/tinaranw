@@ -1,5 +1,5 @@
 
-<img width="1834" alt="ReadMe" src="https://github.com/tinaranw/tinaranw/assets/50069062/eda5f0ce-ee7f-4a4e-bf78-751de5a57e84">
+<img width="1834" alt="readme2" src="https://github.com/tinaranw/tinaranw/assets/50069062/a45d9ff1-f357-4f0b-9893-12fc77db68af">
 
 <h1 align="center">Hi 👋, I'm Tinara Nathania</h1>
 <h3 align="center">I’m a junior UI/UX Designer, Front-End Developer, and Illustrator, dedicated to delivering visually pleasing and functional digital solutions that align with the objectives and user needs.</h3>
