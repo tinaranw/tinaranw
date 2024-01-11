@@ -96,11 +96,6 @@
 
 <br/>  
 
-## My Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinaranw" alt="tinaranw" /></a> </p>
-
-<br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/tinaranw" target="_blank">
@@ -129,6 +124,11 @@
 </a>  
 </div>  
   
+
+<br/>  
+
+## My Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinaranw" alt="tinaranw" /></a> </p>
 
 <br/>  
 
