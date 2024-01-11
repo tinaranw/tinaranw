@@ -134,7 +134,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tinaranw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tinaranw&show_icons=true&count_private=true&hide_border=true" align="center" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinaranw&show_icons=true&locale=en&layout=compact" alt="tinaranw" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinaranw&show_icons=true&locale=en" alt="tinaranw" /></p></div>  
 
 <br/>  
 
