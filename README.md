@@ -131,15 +131,15 @@
 <br/>  
 
 ## My Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinaranw&theme=gruvbox" alt="tinaranw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinaranw&theme=darkhub" alt="tinaranw" /></a> </p>
 
 <br/>  
 
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinaranw&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tinaranw" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tinaranw&show_icons=true&locale=en&theme=gruvbox" alt="tinaranw" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinaranw&show_icons=true&locale=en&layout=compact&theme=darkhub" alt="tinaranw" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tinaranw&show_icons=true&locale=en&theme=darkhub" alt="tinaranw" />
 </div>  
 
 <br/>  
