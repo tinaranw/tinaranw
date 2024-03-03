@@ -131,7 +131,7 @@
 <br/>  
 
 ## My Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinaranw" alt="tinaranw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinaranw&theme=gruvbox" alt="tinaranw" /></a> </p>
 
 <br/>  
 
