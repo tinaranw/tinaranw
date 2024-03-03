@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/tinaranw/tinaranw/assets/50069062/4f837176-11ff-42b1-a660-062d0989f18a" align="center" style="width: 100%" />
+<img width="1834" alt="Github Read Me" src="https://github.com/tinaranw/tinaranw/assets/50069062/b0114ba6-73d4-4dd8-8b61-fd308f658346">
 </div>  
   
 
