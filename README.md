@@ -138,8 +138,8 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinaranw&show_icons=true&locale=en&layout=compact" alt="tinaranw" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tinaranw&show_icons=true&locale=en" alt="tinaranw" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinaranw&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tinaranw" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tinaranw&show_icons=true&locale=en&theme=gruvbox" alt="tinaranw" />
 </div>  
 
 <br/>  
