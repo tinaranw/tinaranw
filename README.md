@@ -12,7 +12,7 @@
 <br>  
   
 
-- 🔭 I’m currently working on [Hexcape](https://hexcapegame.com/)  
+- 🔭 I’m currently working at [Insite Mitra Inovindo](https://innovastudio.com/)
   
 
 - 🌱 I’m currently learning **AI Apps (Langchain, Pinecone, HuggingFace, Streamlit)**  
