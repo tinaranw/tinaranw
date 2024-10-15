@@ -6,7 +6,7 @@
 # <div align="center">Hi, I'm Tinara Nathania 👋</div>  
   
 
-<div align="center">I’m a junior UI/UX designer, front-end developer, and illustrator, who is dedicated to delivering visually pleasing and functional digital solutions that align with the objectives and user needs.</div>  
+<div align="center">I’m a developer and a small illustrator, who is dedicated to delivering visually pleasing and functional digital solutions that align with the objectives and user needs.</div>  
   
 
 <br>  
@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [Hexcape](https://hexcapegame.com/)  
   
 
-- 🌱 I’m currently learning **UI/UX Design and AI Apps (Langchain, Pinecone, HuggingFace, Streamlit)**  
+- 🌱 I’m currently learning **AI Apps (Langchain, Pinecone, HuggingFace, Streamlit)**  
   
 
 - 👨‍💻 All of my projects are available [here!](https://rebrand.ly/iamtinara)
