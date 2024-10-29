@@ -1,7 +1,7 @@
 <div align="center">
-<img width="1834" alt="Github Read Me" src="https://github.com/tinaranw/tinaranw/assets/50069062/b0114ba6-73d4-4dd8-8b61-fd308f658346">
+<img width="1834" alt="Github Read Me 2" src="https://github.com/user-attachments/assets/8a0eab22-4a12-403d-af79-68c9bf6c2329">
 </div>  
-  
+
 
 # <div align="center">Hi, I'm Tinara Nathania 👋</div>  
   
