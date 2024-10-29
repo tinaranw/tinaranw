@@ -6,13 +6,13 @@
 # <div align="center">Hi, I'm Tinara Nathania 👋</div>  
   
 
-<div align="center">I’m a developer and a small illustrator, who is dedicated to delivering visually pleasing and functional digital solutions that align with the objectives and user needs.</div>  
+<div align="center">I’m a full stack developer, who is dedicated to delivering visually pleasing and functional digital solutions that align with the objectives and user needs.</div>  
   
 
 <br>  
   
 
-- 🔭 I’m currently working at [Insite Mitra Inovindo](https://innovastudio.com/)
+- 🔭 I’m currently working at [Writehand AI](https://www.writehand.ai/)
   
 
 - 🌱 I’m currently learning **AI Apps (Langchain, Pinecone, HuggingFace, Streamlit)**  
